@@ -1,0 +1,6 @@
+@gs_hybrid_HostAddress = http://localhost:5088
+
+GET {{gs_hybrid_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
